@@ -2,7 +2,7 @@
 - 👀 I’m a DevOps Engineer
 - 🌱 I’m currently learning Scrum Principles
 - 💞️ I’m looking to collaborate on Cloud Projects
-- 📫 Reach me mail@rakeshbajpayee.in
+- 📫 Reach me on mail@rakeshbajpayee.in
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It pays to keep an open mind, but not so open your brains fall out. ― Carl Sagan
 
