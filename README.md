@@ -1,3 +1,4 @@
+## About Me
 - 👋 Hi, I’m Rakesh
 - 👀 I’m a DevOps Engineer
 - 🌱 I’m currently learning Scrum Principles
@@ -8,65 +9,70 @@
 
 ## My Tech Stack
 
+<body>
+    <table>
+        <tr>
+            <td>
+                <img src="https://skillicons.dev/icons?i=python" alt="Python" /><br>Python
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=bash" alt="Bash" /><br>Bash
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=git" alt="Git" /><br>Git
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=azure" alt="Azure" /><br>Azure
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=aws" alt="AWS" /><br>AWS
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /><br>Kubernetes
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /><br>Docker
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /><br>GitLab
+            </td>
+            <td>
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="Argo CD" /><br>Argo CD
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" /><br>Terraform
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" /><br>Prometheus
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" /><br>Grafana
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" /><br>Nginx
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /><br>Linux
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=redis" alt="Redis" /><br>Redis
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /><br>MySQL
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br>MongoDB
+            </td>
+            <td>
+                <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" /><br>Kafka
+            </td>
+        </tr>
+    </table>
+</body>
 
-<table style="border: none;">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>Python
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" /><br>Bash
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br>Kubernetes
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /><br>Terraform
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" /><br>Ansible
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" /><br>GitLab
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" width="48" height="48" alt="ArgoCD" /><br>ArgoCD
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br>Nginx
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" /><br>Kafka
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="48" height="48" alt="Vagrant" /><br>Vagrant
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>Node.js
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" /><br>Prometheus
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" /><br>Grafana
-    </td>
-  </tr>
-</table>
+
 <!---
 Helion55/Helion55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
