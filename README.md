@@ -6,7 +6,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It pays to keep an open mind, but not so open your brains fall out. ― Carl Sagan
 
-![Helion55's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helion55&show_icons=true&theme=radical)
 
 <!---
 Helion55/Helion55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
