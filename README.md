@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I’m Rakesh
 - 👀 I’m a DevOps Engineer
-- 🌱 I’m currently learning Scrum Principles
+- 🌱 I’m currently working as Linux Admin
 - 💞️ I’m looking to collaborate on Cloud Projects
 - 📫 Reach me on mail@rakeshbajpayee.in
 - 😄 Pronouns: He/Him
