@@ -1,11 +1,11 @@
 ## About Me
 - 👋 Hi, I’m Rakesh
-- 👀 I’m a DevOps Engineer
-<!--- - 🌱 I’m currently working as Linux Admin --->
-- 💞️ I’m looking to collaborate on Cloud Projects
-- 📫 Reach me on mail@rakeshbajpayee.in
-- 😄 Pronouns: He/Him
+- 💼 I’m a working as Linux Administrator 
+- 💙 I enjoy doing DevOps using Kubernetes, Docker, GitLab CI, ArgoCD, Helm, Nginx, and monitoring tools, automation, infrastructure, and I love to make complex systems run smoothly and securely.
+- 🔎 I’m looking to collaborate on Cloud Projects
 - ⚡ Fun fact: It pays to keep an open mind, but not so open your brains fall out. ― Carl Sagan
+ <!--- - 🌱 I’m currently working as Linux Admin - 📫 Reach me on mail@rakeshbajpayee.in
+- 😄 Pronouns: He/Him --->
 <!---
 ## I 💗
 
