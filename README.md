@@ -1,6 +1,6 @@
 ## About Me
 - 👋 Hi, I’m Rakesh
-- 💼 I’m a working as Linux Administrator 
+- 💼 I’m a working as Site Reliability Engineer
 - 💙 I enjoy doing DevOps and I love to make cloud architectures run smoothly and securely.
 - 🔎 I’m looking to collaborate on Cloud Projects
 - ⚡ Fun fact: It pays to keep an open mind, but not so open your brains fall out. ― Carl Sagan
