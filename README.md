@@ -4,7 +4,7 @@
 - 💙 I enjoy doing DevOps and I love to make cloud architectures run smoothly and securely.
 - 🔎 I’m looking to collaborate on Cloud Projects
 - ⚡ Fun fact: It pays to keep an open mind, but not so open your brains fall out. ― Carl Sagan
-- 🖋 Currently writting blogs on Linux configurations : https://rakeshbajpayee.in/blogs
+- 🖋 Currently writting blogs on Kubernetes : https://rakeshbajpayee.in/blogs
  <!--- - 🌱 I’m currently working as Linux Admin - 📫 Reach me on mail@rakeshbajpayee.in
 - 😄 Pronouns: He/Him --->
 <!---
